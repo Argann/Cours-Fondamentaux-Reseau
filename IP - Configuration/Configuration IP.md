@@ -105,7 +105,7 @@ Tapez ensuite la commande suivante pour une configuration manuelle.
 
 Remplacez bien les mots en MAJUSCULE par les informations correspondantes.
 
-`netsh interface ipv4 set addres name="NOM INTERFACE" static ADRESSE_IP MASQUE PASSERELLE`
+`netsh interface ipv4 set address name="NOM INTERFACE" static ADRESSE_IP MASQUE PASSERELLE`
 
 ---
 

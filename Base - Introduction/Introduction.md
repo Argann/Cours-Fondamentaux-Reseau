@@ -24,7 +24,7 @@ header: Réseau - Introduction
 
 ---
 
-Un **réseau** à pour but de **connecter** des ordinateurs entre eux afin qu'ils puissent **partager leurs ressources**.
+Un **réseau** a pour but de **connecter** des ordinateurs entre eux afin qu'ils puissent **partager leurs ressources**.
 
 ---
 
